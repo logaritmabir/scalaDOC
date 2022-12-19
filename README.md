@@ -1,7 +1,26 @@
 # Scala_best_language
-Programlama Dilleri dersi için araştırılan dil , Scala.
 
-### Scala'ya Giriş
+## Amaç : 
+Bu repo Programlama Dilleri seçmeli dersi içerisinde verilen ödev için açılmıştır.
+Ödevin konusu istenilen bir dilin araştırılması ve raporlanmasıdır. Bu ödev kapsamında Scala Programlama Dili ele alınmıştır.
+
+### ! Not : Bu dökümanı Notion'da okumak için : [<image style="width:30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Scala Programlama Dili]()
+
+## Grup üyeleri ve katkıları
+Bu ödev 4 kişi tarafından hazırlanmıştır. Grup üyeleri ve katkıları : 
+
+
+| Grup Üyeleri    | Görevler | Github | 
+|-----------------|-----------|--------|
+| Yasin Ünal      | Team Leader, Co-Founder , CTO, Imam  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
+| Ahmed Furkan Kaymak  | Yardımcı lider  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
+| Kadir Emre Özer |  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
+| Osman Büyükşar  |  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
+   
+
+
+
+# Scala'ya Giriş
 
 Scala, çok yönlü ve ölçeklenebilir olacak şekilde tasarlanmış genel amaçlı bir programlama dilidir. Statik olarak yazılmış bir dildir, bu da bir değişkenin türünün derleme zamanında bilinmesi gerektiği anlamına gelir. Bu, daha verimli kod sağlar ve geliştirme sürecinin başlarında türle ilgili hataların yakalanmasına yardımcı olabilir.
 
