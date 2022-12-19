@@ -14,8 +14,8 @@ Bu ödev 4 kişi tarafından hazırlanmıştır. Grup üyeleri ve katkıları :
 |-----------------|-----------|--------|
 | Yasin Ünal      | Team Leader, Co-Founder , CTO, Imam  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
 | Ahmed Furkan Kaymak  | Yardımcı lider  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
-| Kadir Emre Özer |  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Osman Büyükşar  |  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
+| Kadir Emre Özer | Grup Üyesi 3 | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
+| Osman Büyükşar  | Grup Üyesi 4 | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
    
 
 
