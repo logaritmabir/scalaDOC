@@ -1,5 +1,8 @@
 # Scala Programming Language
 
+![image](https://user-images.githubusercontent.com/56133248/211215288-257ac32e-a48d-430a-9f87-0b81975b5f04.png)
+
+
 ## Purpose : 
 This reprository has been created for research the Scala programming language in terms of programming language concepts.
 
