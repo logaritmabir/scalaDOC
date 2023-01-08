@@ -1,4 +1,4 @@
-# Scala_best_language
+# Scala Programming Language
 
 ## Purpose : 
 This reprository has been created for research the Scala programming language in terms of programming language concepts.
