@@ -6,12 +6,12 @@ This reprository has been created for research the Scala programming language in
 ### ! Read that documentation : [<image style="width:30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Scala Programlama Dili]()
 
 
-| Members   | Task | Github | 
+| Members   | Mission/Task | Github | 
 |-----------------|-----------|--------|
-| Yasin Ünal      | Team Leader, Co-Founder , CTO, Imam  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
-| Ahmed Furkan Kaymak  | Yardımcı lider  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
-| Kadir Emre Özer | Sercan Demirci'nin müridi | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Osman Büyükşar  | Ressam | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
+| Yasin Ünal      | Project Manager,Semantics of Scala | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
+| Ahmed Furkan Kaymak  | Preview of Scala,Distinction between of Scala and Java  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
+| Kadir Emre Özer | Parsing in Scala,Scope of Variables,Data Types in Scala| [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
+| Osman Büyükşar  | OOP Methodologies in Scala,Improved Data Types in Scala | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
    
 
 
