@@ -15,7 +15,7 @@ Bu ödev 4 kişi tarafından hazırlanmıştır. Grup üyeleri ve katkıları :
 | Yasin Ünal      | Team Leader, Co-Founder , CTO, Imam  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
 | Ahmed Furkan Kaymak  | Yardımcı lider  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
 | Kadir Emre Özer | Sercan Demirci'nin müridi | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Osman Büyükşar  |  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
+| Osman Büyükşar  | Ressam | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
    
 
 
@@ -30,7 +30,7 @@ Scala ayrıca nesne yönelimli programlama için güçlü desteğe sahiptir ve s
 
 ### Scala'nın Özellikleri
 
-Scala’nın ̈ozellikleri a ̧sa ̆gıdaki gibi sıralanabilir: 
+Scala’nın ̈ozellikleri aşağıdaki gibi sıralanabilir: 
 
 Hem fonksiyonel hem de nesne y ̈onelimli programlama paradigmalarını destekler.
 
