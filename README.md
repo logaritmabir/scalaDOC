@@ -11,7 +11,7 @@ This reprository has been created for research the Scala programming language in
 
 | Members   | Mission/Task | Github | 
 |-----------------|-----------|--------|
-| Yasin Ünal      | Project Manager,Semantics of Scala | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
+| Yasin Ünal      | Project Manager,Semantics of Scala, Faeture of Scala | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin)      |
 | Ahmed Furkan Kaymak  | Preview of Scala,Distinction between of Scala and Java  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">]() |  
 | Kadir Emre Özer | Parsing in Scala,Scope of Variables,Data Types in Scala| [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
 | Osman Büyükşar  | OOP Methodologies in Scala,Improved Data Types in Scala | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) | 
