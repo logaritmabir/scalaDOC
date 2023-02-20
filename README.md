@@ -29,14 +29,14 @@ Scala ayrıca nesne yönelimli programlama için güçlü desteğe sahiptir ve s
 
 ### Scala'nın Özellikleri
 
-Scala’nın ̈ozellikleri aşağıdaki gibi sıralanabilir: 
+- Scala’nın ̈ozellikleri aşağıdaki gibi sıralanabilir: 
 
-Hem fonksiyonel hem de nesne y ̈onelimli programlama paradigmalarını destekler.
+- Hem fonksiyonel hem de nesne y ̈onelimli programlama paradigmalarını destekler.
 
-Okuması ve yazması kolay olan sade ve çok yönlü bir sözdizimine sahiptir.
+- Okuması ve yazması kolay olan sade ve çok yönlü bir sözdizimine sahiptir.
 
-Verimli koda izin veren ve hataları erken yakalamaya yardımcı olan tür çıkarımı ile statik yazma özelliğine sahiptir.
+- Verimli koda izin veren ve hataları erken yakalamaya yardımcı olan tür çıkarımı ile statik yazma özelliğine sahiptir.
 
-Eşzamanlı programlama desteği vardır, bu sayede çok thread'li paralel programlamlanmış programlar yazılabilir.
+- Eşzamanlı programlama desteği vardır, bu sayede çok thread'li paralel programlamlanmış programlar yazılabilir.
 
-Java programlam dili ile ortak kullanabilirlik özelliği vardır. Bu sayede Java kütüphaneleri ve framework'leri Scala programlama dilinin içerisinde de kullanılabilir. Aynı zamanda Scala üzerindeki kütüphane ve framework'ler Java içerisinde kullanılabilir.
+- Java programlam dili ile ortak kullanabilirlik özelliği vardır. Bu sayede Java kütüphaneleri ve framework'leri Scala programlama dilinin içerisinde de kullanılabilir. Aynı zamanda Scala üzerindeki kütüphane ve framework'ler Java içerisinde kullanılabilir.
