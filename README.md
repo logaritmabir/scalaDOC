@@ -6,8 +6,8 @@
 ## Purpose : 
 This reprository has been created for research the Scala programming language in terms of programming language concepts.
 
-### Read that documentation on Notion : [<image style="width:30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Scala Programlama Dili]()
-
+<!-- ### Read that documentation on Notion : [<image style="width:30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"> Scala Programlama Dili]()
+ --> 
 
 | Members   | Mission/Task | Github | 
 |-----------------|-----------|--------|
